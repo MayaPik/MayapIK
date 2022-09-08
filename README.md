@@ -15,4 +15,6 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<iframe src="https://giphy.com/embed/l0ErCwGCW2PYDiB9u" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/filmeditor-disney-pixar-l0ErCwGCW2PYDiB9u">via GIPHY</a></p>
+
 <a href="https://media.giphy.com/media/l0ErCwGCW2PYDiB9u/giphy.gif" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
