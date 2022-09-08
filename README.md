@@ -17,4 +17,4 @@ Here are some ideas to get you started:-->
 
 <iframe src="https://giphy.com/embed/l0ErCwGCW2PYDiB9u" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/filmeditor-disney-pixar-l0ErCwGCW2PYDiB9u">via GIPHY</a></p>
 
-<a src="https://giphy.com/embed/l0ErCwGCW2PYDiB9u" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="" target="blank"><img align="center" src=""https://giphy.com/embed/l0ErCwGCW2PYDiB9u"" height="100" /></a>
