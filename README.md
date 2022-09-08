@@ -1,5 +1,8 @@
 ### Hi there 👋 My name is Maya Pik ✨
 
+![giphy](https://user-images.githubusercontent.com/4813814/189055423-a6d591b5-3ce1-4812-a5cf-6978fe7dda59.gif)
+
+
 <!--
 **MayaPik/MayapIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +18,5 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<iframe src="https://giphy.com/embed/l0ErCwGCW2PYDiB9u" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/filmeditor-disney-pixar-l0ErCwGCW2PYDiB9u">via GIPHY</a></p>
 
-<a href="" target="blank"><img align="center" src=""https://giphy.com/embed/l0ErCwGCW2PYDiB9u"" height="100" /></a>
+
