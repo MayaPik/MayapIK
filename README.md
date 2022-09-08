@@ -1,22 +1,9 @@
-### Hi there 👋 My name is Maya Pik ✨
+## Hi there 👋 My name is Maya Pik ✨
+### Welcome to my @github
 
 ![giphy](https://user-images.githubusercontent.com/4813814/189055423-a6d591b5-3ce1-4812-a5cf-6978fe7dda59.gif)
 
+🌱 I’m currently learning JavaScript
 
-<!--
-**MayaPik/MayapIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
+#### (soon to be update)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayapik&show_icons=true&theme=radical)
