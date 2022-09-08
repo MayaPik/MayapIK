@@ -5,6 +5,8 @@
 
 🌱 I’m currently learning JavaScript
 
-#### (soon to be update)
+👋🏼 Nice to meet you all
+
+#### (soon to be updated)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayapik&show_icons=true&theme=radical)
 
