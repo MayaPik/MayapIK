@@ -2,7 +2,6 @@
 ### Welcome to my Magical Github Kindom
 
 <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="280" >
-<br>
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=My-Portfolio&color=purple)](https://mayapik.github.io/Portfolio/)&nbsp;
 [![Linkedin: maya-pik](https://img.shields.io/badge/-mayapik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maya-pik/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/maya-pik/))&nbsp;
