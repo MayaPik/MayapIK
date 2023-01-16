@@ -1,7 +1,8 @@
 ## Hi there! I am Maya Pik ✨
+### Welcome to my Magical Github Kindom
+
 <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="280" >
 
-### Welcome to my Magical Github Kindom
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=My-Portfolio&color=purple)](https://mayapik.github.io/Portfolio/)&nbsp;
 [![Linkedin: maya-pik](https://img.shields.io/badge/-mayapik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maya-pik/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/maya-pik/))&nbsp;
@@ -15,7 +16,7 @@ interface Developer {
   aboutMe: string;
 }
 
-const maya: Developer = {
+let maya: Developer = {
   frontEnd: ["HTML5", "CSS3", "JavaScript(ES6)", "TypeScript"],
   backEnd: ["JSON Web Token", "PostgreSQL", "Node.js", "Express"],
   tools: ["React", "Redux", "Node", "Bootstrap", "Git", "Github"],
@@ -24,7 +25,7 @@ const maya: Developer = {
   With a background in guidance, I know how to lead an idea.
   I am an open source contributor and a self-educator."
 };
-}
+
 ```
 
 ---
