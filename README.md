@@ -1,5 +1,5 @@
 ## Hi there! I am Maya Pik ✨
-<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="260" >
+<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="280" >
 
 ### Welcome to my Magical Github Kindom
 
