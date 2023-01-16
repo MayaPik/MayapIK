@@ -1,5 +1,5 @@
 ## Hi there! I am Maya Pik ✨
-<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="320" >
+<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="260" >
 
 ### Welcome to my Magical Github Kindom
 
@@ -20,7 +20,7 @@ const maya: Developer = {
   backEnd: ["JSON Web Token", "PostgreSQL", "Node.js", "Express"],
   tools: ["React", "Redux", "Node", "Bootstrap", "Git", "Github"],
   aboutMe: "Coding and solving problems gets me excited!
-  I lovedeveloping functioning web APIs and working with infrastructure. 
+  I love developing functioning web APIs and working with infrastructure. 
   With a background in guidance, I know how to lead an idea.
   I am an open source contributor and a self-educator."
 };
