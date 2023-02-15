@@ -1,7 +1,7 @@
 ## Hi there! I am Maya Pik ✨
 ### Welcome to my Magical Github Kindom
 
-<img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" align='right' height="auto" width="280" >
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" align='right' height="auto" width="280" >
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=My-Portfolio&color=purple)](https://mayapik.netlify.app)
 
