@@ -5,6 +5,8 @@
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=My-Portfolio&color=purple)](https://mayapik.netlify.app)
 
+### Currently learning Unity and C# ✨✨
+
 &nbsp;
 [![Linkedin: maya-pik](https://img.shields.io/badge/-mayapik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maya-pik/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/maya-pik/))&nbsp;
 [![GitHub](https://img.shields.io/github/followers/mayapik?label=follow&style=social)](https://github.com/mayapik)
