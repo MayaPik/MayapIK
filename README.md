@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=My-Portfolio&color=purple)](https://mayapik.netlify.app)
 
-### Currently learning Unity and C# ✨✨
+### I am a game (Unity) developer ✨✨
 
 &nbsp;
 [![Linkedin: maya-pik](https://img.shields.io/badge/-mayapik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maya-pik/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/maya-pik/))&nbsp;
@@ -13,6 +13,7 @@
 
 ```typescript
 interface Developer {
+  games: string;
   frontEnd: string[];
   backEnd: string[];
   tools: string[];
@@ -20,13 +21,12 @@ interface Developer {
 }
 
 let maya: Developer = {
+  game: "Unity!"
   frontEnd: ["HTML5", "CSS3", "JavaScript(ES6)", "TypeScript"],
-  backEnd: ["JSON Web Token", "PostgreSQL", "Node.js", "Express"],
+  backEnd: ["JSON Web Token", "PostgreSQL", "Node.js", "Express", "C#"],
   tools: ["React", "Redux", "Node", "Bootstrap", "Git", "Github"],
   aboutMe: "Coding and solving problems gets me excited!
-  I love developing functioning web APIs and working with infrastructure. 
-  With a background in guidance, I know how to lead an idea.
-  I am an open source contributor and a self-educator."
+  I am a game developer with background in Full Stack development"
 };
 
 ```
