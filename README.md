@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/static/v1?label=&message=My-Portfolio&color=purple)](https://www.mayapik.com)
 
-### I am a game (Unity) developer ✨✨
+### I am a games (Unity) developer ✨✨
 
 &nbsp;
 [![Linkedin: maya-pik](https://img.shields.io/badge/-mayapik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maya-pik/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/maya-pik/))&nbsp;
@@ -21,7 +21,7 @@ interface Developer {
 }
 
 let maya: Developer = {
-  game: "Unity!"
+  games: "Unity!"
   frontEnd: ["HTML5", "CSS3", "JavaScript(ES6)", "TypeScript"],
   backEnd: ["JSON Web Token", "PostgreSQL", "Node.js", "Express", "C#"],
   tools: ["React", "Redux", "Node", "Bootstrap", "Git", "Github"],
